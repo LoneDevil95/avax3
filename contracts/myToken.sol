@@ -6,8 +6,8 @@ pragma solidity ^0.8.19;
 contract Token {
 
     // public variables here
-    string public tokenName = "MINTERS";
-    string public abbrv = "MTR";
+    string public tokenName = "Pratham";
+    string public abbrv = "PRA";
     uint public totalSupply = 0;
     
 
